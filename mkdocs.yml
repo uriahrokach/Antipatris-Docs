@@ -11,4 +11,8 @@ theme:
     accent: red
   font:
     text: IBM Plex Sans Hebrew
-  
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
